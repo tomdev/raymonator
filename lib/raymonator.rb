@@ -13,6 +13,10 @@ module Raymonator
         dak
         baksteen
         zakke
+        takke
+        laffe
+        schappe
+        tandpasta
       ).sample
     end
 
@@ -23,6 +27,12 @@ module Raymonator
         flapper
         nakker
         baffer
+        kapper
+        zapper
+        rapper
+        japper
+        blaffer
+        vuller
       ).sample
     end
   end
