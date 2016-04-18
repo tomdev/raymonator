@@ -33,6 +33,7 @@ module Raymonator
         japper
         blaffer
         vuller
+        tapper
       ).sample
     end
   end
